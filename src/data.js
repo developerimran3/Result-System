@@ -1,14 +1,3 @@
-// let name = "MD. IMRAN HOSSAIN";
-// let roll = "105967";
-// let reg = "105165718";
-// let ban = 65;
-// let eng = 68;
-// let math = 80;
-// let science = 80;
-// let s_science = 80;
-// let reli = 80;
-// let agr = 79;
-
 const name = [
   "IMRAN",
   "ARIFA",
